@@ -1,5 +1,5 @@
 Changes:
-* Adds an icon for each map in the map selector.
+* Adds an icon for most maps in the map selector.
 * Adds a more visible texture for knockback sticks.
 * Adds a more visible texture for Iron Golem spawn eggs.
 * Makes TNT explosion particles much more transparent.
@@ -10,3 +10,6 @@ Changes:
 
 Planned additions:
 * Adds icons for each level of diamond upgrade to make it easy to tell at a glance which upgrades you have unlocked.
+* Adds icons for menu elements.
+* Adds icons for ALL maps.
+  * Currently missing: trick or treat, gingerbread, lunar blossom, nutcracker, winterland, wrapped up
