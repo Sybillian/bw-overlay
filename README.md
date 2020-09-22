@@ -13,3 +13,8 @@ Planned additions:
 * Adds icons for menu elements.
 * Adds icons for ALL maps.
   * Currently missing: trick or treat, gingerbread, lunar blossom, nutcracker, winterland, wrapped up
+
+Credits
+* Edited vanilla textures from the default Minecraft 1.8.9 resource pack.
+* Edited textures from FurfNSFW's FurfSky+ resource pack.
+* Text strings from MattsOnMC's MacroKey Keybinding mod.
