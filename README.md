@@ -12,8 +12,8 @@ Changes:
 Planned additions:
 * Adds icons for menu elements.
 * Adds icons for ALL maps.
-  * Missing normal maps: gateway, lightstone, fang outpost, rise
-  * Missing holiday maps: trick or treat, gingerbread, steampumpkin, screamway, lunar blossom, nutcracker, winterland, wrapped up, santa's rush
+  * Missing normal maps: gateway, lightstone, fang outpost, rise, coastal
+  * Missing holiday maps: trick or treat, gingerbread, steampumpkin, screamway, lunar blossom, nutcracker, winterland, wrapped up, santa's rush, burrow
 
 Credits
 * Edited vanilla textures from the default Minecraft 1.8.9 resource pack.
