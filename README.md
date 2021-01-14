@@ -4,7 +4,6 @@ Changes:
 * Adds a more visible texture for knockback sticks.
 * Adds a more visible texture for Iron Golem spawn eggs.
 * Makes TNT explosion particles much more transparent.
-* Colors the names of available status effects.
 * Colors and bolds item enchantments acquired from diamond upgrades to make their presence notable at a glance.
 
 Planned additions:

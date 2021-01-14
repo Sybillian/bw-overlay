@@ -1,14 +1,3 @@
 ## Enchantments
 enchantment.protect.all=§d§lProtection
 enchantment.damage.all=§d§lSharpness
-
-## Effects
-potion.moveSpeed=§bSpeed§r
-potion.regeneration=§dRegeneration§r
-potion.jump=§aJump Boost§r
-potion.absorption=§eAbsorption§r
-potion.invisibility=§fInvisibility§r
-potion.digSpeed=§dHaste§r
-potion.blindness=§cBlindness§r
-potion.moveSlowdown=§cSlowness§r
-potion.digSlowDown=§cMining Fatigue§r
