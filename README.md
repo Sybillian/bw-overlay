@@ -13,5 +13,6 @@ Planned additions:
   * Missing normal maps: NONE!
   * Missing holiday maps: trick or treat, gingerbread, steampumpkin, screamway, lunar blossom, nutcracker, winterland, wrapped up, santa's rush, burrow, coastal
 
-Credits
+Credits:
 * Edited vanilla textures from the default Minecraft resource pack.
+* Inspiration from every Skyblock pack ever made, but in particular FurfSky+.
