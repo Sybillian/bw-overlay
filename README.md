@@ -13,5 +13,6 @@ Planned additions:
   * Missing holiday maps: trick or treat, gingerbread, steampumpkin, screamway, lunar blossom, nutcracker, winterland, wrapped up, santa's rush, burrow, coastal
 
 Credits:
+* This pack was created by Sybillian. Please clearly credit if you use it as a base for other projects.
 * Edited vanilla textures from the default Minecraft resource pack.
 * Inspiration from every Skyblock pack ever made, but in particular FurfSky+.
